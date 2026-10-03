@@ -2,12 +2,13 @@
 
 A beginner-friendly Python web scraper that extracts job listings from the Fake Python Jobs website and saves the data into a CSV file.
 
+https://github.com/Garimahub017/fake-python-jobs-scraper
+
 ## Project Overview
 
 This project uses Python, Requests, and BeautifulSoup to scrape job listings from:
 
-
-https://realpython.github.io/fake-jobs/
+https://roadmap.sh/projects/job-listings-scraper
 
 The scraper collects:
 
