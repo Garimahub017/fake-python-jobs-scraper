@@ -51,3 +51,10 @@ Install the required libraries using:
 
 ```bash
 python -m pip install -r requirements.txt
+
+
+## Project Page
+
+Project URL:
+
+https://github.com/Garimahub017/fake-python-jobs-scraper
